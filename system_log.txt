@@ -157,3 +157,11 @@ domain: "googleapis.c
 [2025-11-05 09:44:34.325124] Low confidence  Gemini fallback
 [2025-11-05 09:44:40.926486] New data added via Gemini fallback: westtripuratripura (moderate)
 [2025-11-05 09:44:41.230069] Model retrained after fallback
+[2025-11-05 13:37:30.316280]  Gemini model ready: gemini-2.5-pro
+[2025-11-05 13:37:38.231313]  Gemini model ready: gemini-2.5-pro
+[2025-11-05 13:37:43.929722] Prediction: moderate (confidence=0.64)
+[2025-11-05 13:37:43.932379] Low confidence  Gemini fallback
+[2025-11-05 13:37:59.666839]  Duplicate record for westtripuratripura skipped.
+[2025-11-05 13:38:10.856341] Prediction: moderate (confidence=0.64)
+[2025-11-05 13:38:10.857059] Low confidence  Gemini fallback
+[2025-11-05 13:38:22.888679]  Duplicate record for westtripuratripura skipped.
