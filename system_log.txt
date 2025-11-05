@@ -1,0 +1,159 @@
+[2025-11-04 22:53:54.205388]  Prediction: healthy (confidence=0.51)
+[2025-11-04 22:53:54.205712]  Low confidence, triggering Gemini fallback
+[2025-11-04 22:53:55.197769]  Inference error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-11-04 22:58:19.915262]  Unknown category during transform: Found unknown categories ['nadiawestbengal'] in column 1 during transform
+[2025-11-04 22:58:19.916492] Unknown location 'nadiawestbengal' replaced with 'dhalaitripura'
+[2025-11-04 22:58:19.948968]  Prediction: moderate (confidence=0.45)
+[2025-11-04 22:58:19.949745]  Low confidence, triggering Gemini fallback
+[2025-11-04 22:58:20.588439]  Inference error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-11-04 23:03:01.939808]  Model models/gemini-2.5-flash unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:03:02.248883]  Model models/gemini-2.5-pro unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:03:02.465689]  Model models/gemini-2.5-flash-lite unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:04:16.047269]  Model gemini-2.5-flash unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:04:16.467949]  Model gemini-2.5-pro unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:04:16.606572]  Model gemini-2.5-flash-lite unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:04:16.951617]  Model gemini-2.0-flash unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:04:17.085465]  Model gemini-2.0-pro unavailable: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-11-04 23:05:21.381006]  Model failed: gemini-2.5-flash  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:21.517783]  Model failed: gemini-2.5-pro  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:21.894516]  Model failed: gemini-2.5-flash-lite  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:22.031667]  Model failed: gemini-2.0-flash  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:22.240247]  Model failed: gemini-2.0-pro  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:22.415111]  Model failed: models/gemini-2.5-flash  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:22.555721]  Model failed: models/gemini-2.5-pro  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:23.031644]  Model failed: models/gemini-2.5-flash-lite  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:23.171128]  Model failed: models/gemini-2.0-flash  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:05:23.380930]  Model failed: models/gemini-2.0-pro  400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.c
+[2025-11-04 23:12:15.083405]  Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:12:19.427187]  Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:12:26.038533]  Unknown category: Found unknown categories ['nadiawestbengal'] in column 1 during transform
+[2025-11-04 23:12:26.040095]  Replaced unknowns with defaults for safe transform.
+[2025-11-04 23:12:26.060608]  Prediction: moderate (confidence=0.45)
+[2025-11-04 23:12:26.061184]  Low confidence  Gemini fallback triggered.
+[2025-11-04 23:12:35.224583]  Gemini parse error: Expecting value: line 1 column 1 (char 0)
+[2025-11-04 23:12:35.249692]  New Gemini-labeled record added (moderate).
+[2025-11-04 23:12:35.849478]  Model retrained after Gemini fallback.
+[2025-11-04 23:14:37.421522]  Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:15:28.366025]  Unknown category: Found unknown categories ['puruliawestbengal'] in column 1 during transform
+[2025-11-04 23:15:28.367929]  Replaced unknowns with defaults for safe transform.
+[2025-11-04 23:15:28.396811]  Prediction: moderate (confidence=0.66)
+[2025-11-04 23:16:24.879980]  Unknown category: Found unknown categories ['puruliawestbengal'] in column 1 during transform
+[2025-11-04 23:16:24.880708]  Replaced unknowns with defaults for safe transform.
+[2025-11-04 23:16:24.897786]  Prediction: moderate (confidence=0.66)
+[2025-11-04 23:22:14.585001] Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:22:19.316475] Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:22:22.984260] Unknown category replaced safely.
+[2025-11-04 23:22:23.018143] Prediction: moderate (confidence=0.66)
+[2025-11-04 23:23:23.808591] Unknown category replaced safely.
+[2025-11-04 23:23:23.832044] Prediction: moderate (confidence=0.63)
+[2025-11-04 23:25:08.732695] Gemini model ready: gemini-2.5-flash
+[2025-11-04 23:25:14.746000] Unknown category replaced safely.
+[2025-11-04 23:25:14.756305] Prediction: moderate (confidence=0.63)
+[2025-11-04 23:25:14.756638] Low confidence, using Gemini fallback
+[2025-11-04 23:25:24.932829] New data added via Gemini fallback: puruliawestbengal (stress)
+[2025-11-04 23:25:25.315810] Model retrained after fallback
+[2025-11-05 09:21:43.775178] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:21:47.298085] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:22:37.344300] Prediction: stress (confidence=0.65)
+[2025-11-05 09:22:37.345538] Low confidence, using Gemini fallback
+[2025-11-05 09:22:45.131025] New data added via Gemini fallback: sepahijalatripura (stress)
+[2025-11-05 09:22:45.692164] Model retrained after fallback
+[2025-11-05 09:24:21.644585] Prediction: stress (confidence=0.65)
+[2025-11-05 09:24:21.645644] Low confidence, using Gemini fallback
+[2025-11-05 09:24:27.093511] Duplicate record for sepahijalatripura skipped
+[2025-11-05 09:25:13.732701] Prediction: moderate (confidence=0.52)
+[2025-11-05 09:25:13.733365] Low confidence, using Gemini fallback
+[2025-11-05 09:25:21.678563] New data added via Gemini fallback: sepahijalatripura (moderate)
+[2025-11-05 09:25:22.137565] Model retrained after fallback
+[2025-11-05 09:26:45.350210] Prediction: healthy (confidence=0.44)
+[2025-11-05 09:26:45.350599] Low confidence, using Gemini fallback
+[2025-11-05 09:26:58.592798] New data added via Gemini fallback: sepahijalatripura (moderate)
+[2025-11-05 09:26:58.930305] Model retrained after fallback
+[2025-11-05 09:27:34.834824] Prediction: healthy (confidence=0.44)
+[2025-11-05 09:27:34.836261] Low confidence, using Gemini fallback
+[2025-11-05 09:27:41.131194] New data added via Gemini fallback: sepahijalatripura (healthy)
+[2025-11-05 09:27:41.503917] Model retrained after fallback
+[2025-11-05 09:31:10.091765] Prediction: healthy (confidence=0.87)
+[2025-11-05 09:40:53.462191] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:41:21.819264] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:42:06.675527] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:42:19.743982] Gemini model ready: gemini-2.5-flash
+[2025-11-05 09:44:07.144378] Prediction: healthy (confidence=0.77)
+[2025-11-05 09:44:34.324743] Prediction: healthy (confidence=0.58)
+[2025-11-05 09:44:34.325124] Low confidence  Gemini fallback
+[2025-11-05 09:44:40.926486] New data added via Gemini fallback: westtripuratripura (moderate)
+[2025-11-05 09:44:41.230069] Model retrained after fallback

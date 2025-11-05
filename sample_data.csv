@@ -1,0 +1,118 @@
+crop_name,location,weather,soiltype,temperature,humidity,rainfall,label
+rice,westtripuratripura,humid,alluvial,30.0,85.0,250.0,healthy
+rice,gomatitripura,rainy,alluvial,28.0,90.0,320.0,healthy
+rice,dhalaitripura,humid,laterite,31.0,88.0,280.0,moderate
+rice,northtripuratripura,rainy,alluvial,29.0,92.0,380.0,stress
+rice,unakotitripura,humid,loamy,32.0,82.0,230.0,healthy
+rice,westtripuratripura,rainy,alluvial,27.0,95.0,400.0,stress
+rice,dhalaitripura,cloudy,laterite,29.0,85.0,210.0,moderate
+rice,gomatitripura,humid,alluvial,31.0,87.0,260.0,healthy
+rice,northtripuratripura,humid,loamy,33.0,80.0,220.0,healthy
+rice,westtripuratripura,sunny,alluvial,34.0,75.0,150.0,moderate
+rice,unakotitripura,rainy,alluvial,28.0,93.0,350.0,stress
+rice,dhalaitripura,humid,laterite,30.0,88.0,290.0,moderate
+rice,gomatitripura,cloudy,alluvial,29.0,85.0,240.0,healthy
+rice,westtripuratripura,humid,loamy,32.0,86.0,270.0,healthy
+rice,northtripuratripura,cloudy,laterite,31.0,89.0,300.0,moderate
+rice,sepahijalatripura,humid,alluvial,29.0,88.0,260.0,healthy
+rice,southtripuratripura,rainy,clay loam,28.0,92.0,340.0,stress
+rice,khowaitripura,humid,loamy,31.0,85.0,230.0,healthy
+rice,westtripuratripura,sunny,alluvial,35.0,70.0,120.0,stress
+rice,gomatitripura,cloudy,alluvial,30.0,82.0,200.0,healthy
+rice,dhalaitripura,rainy,laterite,29.0,94.0,370.0,stress
+rice,northtripuratripura,humid,loamy,32.0,87.0,280.0,moderate
+rice,unakotitripura,humid,alluvial,31.0,85.0,240.0,healthy
+rice,sepahijalatripura,rainy,alluvial,28.0,93.0,360.0,stress
+rice,southtripuratripura,humid,clay loam,30.0,89.0,300.0,moderate
+potato,westtripuratripura,cool,alluvial,24.0,78.0,90.0,healthy
+potato,unakotitripura,cool,loamy,22.0,80.0,100.0,healthy
+potato,gomatitripura,moderate,alluvial,25.0,75.0,80.0,healthy
+potato,northtripuratripura,humid,loamy,26.0,82.0,140.0,moderate
+potato,westtripuratripura,cool,alluvial,23.0,79.0,95.0,healthy
+potato,dhalaitripura,moderate,laterite,27.0,70.0,70.0,moderate
+potato,unakotitripura,foggy,loamy,21.0,85.0,110.0,stress
+potato,sepahijalatripura,cool,sandy loam,24.0,77.0,85.0,healthy
+potato,southtripuratripura,cool,clay loam,23.0,80.0,100.0,healthy
+potato,khowaitripura,foggy,loamy,22.0,88.0,130.0,stress
+potato,westtripuratripura,sunny,alluvial,26.0,65.0,50.0,moderate
+potato,gomatitripura,cool,alluvial,24.0,76.0,90.0,healthy
+potato,dhalaitripura,moderate,laterite,25.0,74.0,80.0,healthy
+potato,northtripuratripura,cool,loamy,23.0,81.0,105.0,moderate
+potato,unakotitripura,foggy,loamy,21.0,87.0,120.0,stress
+pineapple,unakotitripura,humid,sandy loam,29.0,80.0,180.0,healthy
+pineapple,northtripuratripura,sunny,laterite,32.0,75.0,130.0,healthy
+pineapple,westtripuratripura,humid,loamy,30.0,82.0,200.0,moderate
+pineapple,gomatitripura,rainy,sandy loam,28.0,90.0,310.0,stress
+pineapple,unakotitripura,cloudy,sandy loam,29.0,85.0,220.0,healthy
+pineapple,northtripuratripura,sunny,laterite,34.0,70.0,110.0,moderate
+pineapple,dhalaitripura,humid,laterite,31.0,84.0,240.0,healthy
+pineapple,unakotitripura,rainy,sandy loam,27.0,92.0,340.0,stress
+pineapple,sepahijalatripura,humid,sandy loam,30.0,83.0,200.0,healthy
+pineapple,southtripuratripura,sunny,laterite,33.0,74.0,120.0,moderate
+pineapple,khowaitripura,cloudy,loamy,29.0,86.0,230.0,healthy
+pineapple,westtripuratripura,rainy,loamy,28.0,91.0,300.0,stress
+pineapple,gomatitripura,humid,sandy loam,31.0,80.0,190.0,healthy
+pineapple,dhalaitripura,humid,laterite,32.0,82.0,210.0,healthy
+pineapple,northtripuratripura,cloudy,laterite,30.0,85.0,250.0,moderate
+brinjal,westtripuratripura,sunny,sandy loam,28.0,70.0,100.0,healthy
+brinjal,gomatitripura,humid,loamy,32.0,78.0,150.0,healthy
+brinjal,dhalaitripura,hot,laterite,35.0,75.0,130.0,moderate
+brinjal,northtripuratripura,rainy,loamy,29.0,90.0,320.0,stress
+brinjal,unakotitripura,foggy,sandy loam,24.0,85.0,90.0,moderate
+brinjal,westtripuratripura,humid,loamy,30.0,80.0,180.0,healthy
+brinjal,gomatitripura,sunny,alluvial,33.0,72.0,120.0,healthy
+brinjal,dhalaitripura,rainy,laterite,30.0,92.0,300.0,stress
+brinjal,northtripuratripura,humid,loamy,31.0,82.0,200.0,healthy
+brinjal,westtripuratripura,hot,sandy loam,36.0,68.0,90.0,moderate
+brinjal,sepahijalatripura,humid,alluvial,32.0,79.0,160.0,healthy
+brinjal,southtripuratripura,sunny,clay loam,34.0,73.0,110.0,healthy
+brinjal,khowaitripura,cloudy,loamy,30.0,84.0,190.0,moderate
+brinjal,westtripuratripura,rainy,sandy loam,29.0,91.0,310.0,stress
+brinjal,gomatitripura,humid,loamy,31.0,80.0,170.0,healthy
+ladyfinger,westtripuratripura,humid,loamy,32.0,80.0,200.0,healthy
+ladyfinger,unakotitripura,sunny,sandy loam,34.0,75.0,180.0,healthy
+ladyfinger,dhalaitripura,hot,laterite,36.0,70.0,150.0,moderate
+ladyfinger,gomatitripura,rainy,alluvial,30.0,92.0,340.0,stress
+ladyfinger,northtripuratripura,humid,loamy,31.0,85.0,240.0,healthy
+ladyfinger,westtripuratripura,rainy,loamy,29.0,95.0,380.0,stress
+ladyfinger,unakotitripura,humid,sandy loam,33.0,82.0,220.0,healthy
+ladyfinger,dhalaitripura,cloudy,laterite,30.0,88.0,280.0,moderate
+ladyfinger,gomatitripura,sunny,alluvial,35.0,74.0,160.0,healthy
+ladyfinger,northtripuratripura,hot,loamy,37.0,68.0,130.0,moderate
+ladyfinger,sepahijalatripura,humid,alluvial,33.0,81.0,210.0,healthy
+ladyfinger,southtripuratripura,sunny,clay loam,36.0,72.0,170.0,moderate
+ladyfinger,khowaitripura,rainy,loamy,30.0,90.0,300.0,stress
+ladyfinger,westtripuratripura,humid,loamy,32.0,83.0,230.0,healthy
+ladyfinger,unakotitripura,cloudq,sandy loam,31.0,86.0,250.0,moderate
+maize,westtripuratripura,sunny,loamy,32.0,78.0,160.0,healthy
+maize,dhalaitripura,humid,laterite,30.0,84.0,200.0,healthy
+maize,northtripuratripura,cloudy,loamy,29.0,82.0,180.0,moderate
+maize,gomatitripura,sunny,alluvial,33.0,75.0,140.0,healthy
+maize,unakotitripura,humid,sandy loam,31.0,80.0,190.0,healthy
+maize,westtripuratripura,rainy,loamy,28.0,90.0,300.0,stress
+maize,sepahijalatripura,sunny,alluvial,34.0,76.0,150.0,healthy
+maize,southtripuratripura,cloudy,clay loam,30.0,83.0,210.0,moderate
+maize,khowaitripura,humid,loamy,31.0,81.0,190.0,healthy
+maize,dhalaitripura,sunny,laterite,35.0,70.0,120.0,moderate
+maize,northtripuratripura,rainy,loamy,29.0,91.0,320.0,stress
+maize,gomatitripura,humid,alluvial,32.0,80.0,180.0,healthy
+maize,unakotitripura,cloudy,sandy loam,30.0,84.0,200.0,healthy
+maize,westtripuratripura,hot,loamy,36.0,68.0,100.0,stress
+maize,sepahijalatripura,humid,alluvial,33.0,79.0,170.0,healthy
+rice,nadiawestbengal,humid,alluvial,1.5,22.0,10.0,moderate
+rice,puruliawestbengal,humid,laterite,1.5,42.0,100.0,stress
+rice,sepahijalatripura,humid,laterite,1.5,42.0,100.0,stress
+rice,sepahijalatripura,humid,laterite,31.5,42.0,69.0,moderate
+rice,sepahijalatripura,humid,alluvial,31.5,42.0,269.0,moderate
+rice,sepahijalatripura,humid,alluvial,31.5,41.0,270.0,healthy
+rice,sepahijalatripura,humid,alluvial,30.5,86.0,270.0,healthy
+rice,sepahijalatripura,rainy,alluvial,28.0,93.0,340.0,stress
+rice,sepahijalatripura,cloudy,alluvial,29.0,88.0,280.0,moderate
+rice,sepahijalatripura,humid,loamy,31.0,84.0,250.0,healthy
+rice,sepahijalatripura,rainy,laterite,27.0,95.0,400.0,stress
+rice,sepahijalatripura,sunny,alluvial,34.0,75.0,180.0,moderate
+rice,sepahijalatripura,humid,clay loam,30.0,89.0,260.0,healthy
+rice,sepahijalatripura,cloudy,alluvial,29.0,83.0,220.0,moderate
+rice,sepahijalatripura,rainy,alluvial,26.0,96.0,420.0,stress
+rice,sepahijalatripura,humid,alluvial,32.0,81.0,210.0,healthy
+rice,westtripuratripura,humid,alluvial,32.5,87.0,271.0,moderate
