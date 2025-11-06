@@ -1,6 +1,9 @@
-numpy
+Flask
+Flask-Cors
 pandas
-scikit-learn
+numpy
 joblib
-flask      # optional for API
-flask-cors
+scikit-learn
+google-generativeai
+python-dotenv
+gunicorn
