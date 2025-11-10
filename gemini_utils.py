@@ -38,11 +38,11 @@ def get_gemini_model():
         try:
             model = genai.GenerativeModel(m)
             _ = model.count_tokens("health_check")
-            log_event(f"✅ Gemini model ready: {m}")
+            # log_event(f"✅ Gemini model ready: {m}")
             print(f"✅ Gemini model ready: {m}")
             return model
         except Exception as e:
-            log_event(f"⚠️ Model failed: {m} → {str(e)[:80]}")
+            # log_event(f"⚠️ Model failed: {m} → {str(e)[:80]}")
             continue
 
     raise RuntimeError("❌ No working Gemini model found. Check API key or network connection.")

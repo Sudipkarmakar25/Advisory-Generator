@@ -165,3 +165,26 @@ domain: "googleapis.c
 [2025-11-05 13:38:10.856341] Prediction: moderate (confidence=0.64)
 [2025-11-05 13:38:10.857059] Low confidence  Gemini fallback
 [2025-11-05 13:38:22.888679]  Duplicate record for westtripuratripura skipped.
+[2025-11-10 08:38:35.885427]  Gemini model ready: gemini-2.5-pro
+[2025-11-10 08:38:59.550705] Prediction: moderate (confidence=0.69)
+[2025-11-10 08:38:59.551354] Low confidence  Gemini fallback
+[2025-11-10 08:39:13.105456]  Duplicate record for westtripuratripura skipped.
+[2025-11-10 08:40:19.474460] Prediction: healthy (confidence=0.70)
+[2025-11-10 08:40:19.476069] Low confidence  Gemini fallback
+[2025-11-10 08:40:31.729583]  Added new Gemini record: gomatitripura (healthy)
+[2025-11-10 08:40:32.193704]  Model retrained after Gemini fallback.
+[2025-11-10 08:41:09.550576] Prediction: healthy (confidence=0.70)
+[2025-11-10 08:41:09.551711] Low confidence  Gemini fallback
+[2025-11-10 08:41:20.487892]  Duplicate record for gomatitripura skipped.
+[2025-11-10 08:41:37.411285] Prediction: healthy (confidence=0.70)
+[2025-11-10 08:41:37.412680] Low confidence  Gemini fallback
+[2025-11-10 08:41:48.722373]  Duplicate record for gomatitripura skipped.
+[2025-11-10 08:42:15.689643] Prediction: healthy (confidence=0.70)
+[2025-11-10 08:42:15.690001] Low confidence  Gemini fallback
+[2025-11-10 08:42:26.375844]  Duplicate record for gomatitripura skipped.
+[2025-11-10 08:51:12.419832] Prediction: moderate (confidence=0.69)
+[2025-11-10 08:51:12.421136] Low confidence  Gemini fallback
+[2025-11-10 08:51:23.852525]  Duplicate record for westtripuratripura skipped.
+[2025-11-10 08:53:04.111295] Prediction: healthy (confidence=0.90)
+[2025-11-10 08:59:29.941638] Prediction: healthy (confidence=0.90)
+[2025-11-10 09:01:23.183247]  Gemini model ready: gemini-2.5-pro

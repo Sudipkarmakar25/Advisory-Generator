@@ -19,5 +19,5 @@ def safe_transform(enc, crop, location, weather, soil):
         location = location if location in known_locations else known_locations[0]
         weather = weather if weather in known_weather else known_weather[0]
         soil = soil if soil in known_soil else known_soil[0]
-        log_event("Unknown category replaced safely.")
+        # log_event("Unknown category replaced safely.")
         return enc.transform([[crop, location, weather, soil]])

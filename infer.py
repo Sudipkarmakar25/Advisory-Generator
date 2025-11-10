@@ -21,10 +21,10 @@ def predict_and_suggest(record):
         probs = clf.predict_proba(X)[0]
         confidence = max(probs)
         pred_label = clf.classes_[np.argmax(probs)]
-        log_event(f"Prediction: {pred_label} (confidence={confidence:.2f})")
-
-        if confidence < 0.75:
-            log_event("Low confidence → Gemini fallback")
+        # log_event(f"Prediction: {pred_label} (confidence={confidence:.2f})")
+        print(confidence)
+        if confidence < 0.5:
+            # log_event("Low confidence → Gemini fallback")
             return call_gemini_fallback(record)
 
         stage_suggestion = build_suggestion(pred_label, record)
