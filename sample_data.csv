@@ -198,3 +198,703 @@ rice,khowaitripura,sunny,alluvial,33.5,92.6,281.5,moderate
 rice,southtripuratripura,cloudy,clayloam,30.1,93.5,301.4,moderate
 rice,westtripuratripura,cloudy,clayloam,28.1,83.0,225.1,healthy
 rice,gomatitripura,humid,alluvial,30.2,86.5,270.4,healthy
+cauliflower,khowaitripura,cool,red,25.2,67.9,185.6,healthy
+pumpkin,southtripuratripura,cloudy,red,33.3,90.5,346.5,stress
+brinjal,gomatitripura,humid,clay,24.0,71.4,385.6,moderate
+brinjal,gomatitripura,warm,red,26.0,83.2,191.6,healthy
+spinach,unokotitripura,cool,clay,27.6,69.5,201.6,stress
+okra,unokotitripura,rainy,loam,27.2,88.9,362.2,moderate
+chilli,khowaitripura,cool,loam,24.3,65.2,111.0,healthy
+beans,southtripuratripura,hot,alluvial,33.6,72.2,63.4,stress
+potato,southtripuratripura,hot,red,23.0,93.2,217.9,moderate
+cucumber,sepahijalatripura,warm,clay loam,33.7,94.2,262.4,healthy
+cabbage,dhalaitripura,rainy,clay loam,20.7,82.7,329.2,stress
+cucumber,northtripuratripura,cool,clay loam,32.6,80.8,378.6,moderate
+cauliflower,westtripuratripura,hot,red,19.9,68.5,290.2,healthy
+pumpkin,westtripuratripura,cloudy,loam,30.9,77.7,288.9,stress
+bottle gourd,khowaitripura,humid,laterite,32.9,93.7,265.2,moderate
+brinjal,northtripuratripura,cool,red,30.3,92.3,234.5,healthy
+cauliflower,northtripuratripura,rainy,clay loam,22.1,67.4,182.5,stress
+chilli,southtripuratripura,humid,clay loam,26.1,69.3,311.6,moderate
+tomato,sepahijalatripura,rainy,laterite,32.6,67.9,300.0,healthy
+potato,unokotitripura,hot,sandy loam,17.2,68.4,161.2,stress
+cabbage,sepahijalatripura,warm,loam,16.7,95.0,292.6,moderate
+beans,unokotitripura,humid,clay loam,28.5,86.4,381.4,healthy
+okra,dhalaitripura,cool,clay loam,24.3,78.9,197.5,stress
+bottle gourd,sepahijalatripura,cool,sandy loam,23.2,69.1,238.7,moderate
+beans,dhalaitripura,cloudy,sandy loam,23.6,85.8,253.5,healthy
+pumpkin,sepahijalatripura,hot,clay,29.0,93.1,369.4,stress
+cucumber,northtripuratripura,warm,laterite,25.2,84.0,82.7,moderate
+okra,khowaitripura,rainy,laterite,24.7,69.6,140.1,healthy
+chilli,gomatitripura,cool,alluvial,24.5,79.8,108.4,stress
+pumpkin,gomatitripura,hot,alluvial,31.9,93.1,236.7,moderate
+brinjal,southtripuratripura,cool,laterite,23.9,69.0,302.9,healthy
+cucumber,northtripuratripura,rainy,alluvial,22.8,89.4,120.4,stress
+cabbage,khowaitripura,hot,loam,25.0,72.5,273.0,moderate
+chilli,westtripuratripura,warm,loam,27.0,89.3,312.0,healthy
+cucumber,unokotitripura,warm,clay loam,24.6,86.8,66.5,stress
+chilli,khowaitripura,humid,red,22.3,92.0,127.7,moderate
+bottle gourd,southtripuratripura,cool,sandy loam,24.1,92.1,108.4,healthy
+spinach,westtripuratripura,cool,loam,25.1,85.0,381.4,stress
+cabbage,gomatitripura,warm,clay loam,15.9,72.7,376.7,moderate
+brinjal,dhalaitripura,cloudy,alluvial,29.6,76.5,261.8,healthy
+brinjal,khowaitripura,rainy,clay,27.2,73.0,388.6,stress
+cucumber,sepahijalatripura,warm,clay,33.2,81.0,212.2,moderate
+tomato,westtripuratripura,rainy,laterite,25.7,70.3,97.6,healthy
+tomato,northtripuratripura,cloudy,clay loam,29.8,88.1,395.0,stress
+brinjal,unokotitripura,humid,laterite,32.8,77.0,225.3,moderate
+beans,gomatitripura,cool,red,33.6,94.6,220.3,healthy
+okra,westtripuratripura,rainy,loam,27.4,68.8,354.2,stress
+bottle gourd,gomatitripura,cool,sandy loam,28.2,73.7,344.6,moderate
+beans,northtripuratripura,warm,laterite,27.1,68.8,179.9,healthy
+potato,unokotitripura,rainy,laterite,24.8,82.8,76.0,stress
+brinjal,sepahijalatripura,cool,loam,33.2,86.9,318.9,moderate
+tomato,dhalaitripura,warm,sandy loam,25.3,75.9,333.8,healthy
+tomato,southtripuratripura,cool,clay,23.1,84.8,351.2,stress
+chilli,gomatitripura,hot,red,23.0,76.3,267.3,moderate
+pumpkin,sepahijalatripura,rainy,laterite,31.9,70.3,124.3,healthy
+cabbage,unokotitripura,hot,red,20.0,85.7,272.4,stress
+okra,northtripuratripura,hot,alluvial,27.8,78.5,196.0,moderate
+potato,sepahijalatripura,cool,laterite,23.3,88.2,252.9,healthy
+chilli,khowaitripura,warm,clay loam,33.1,84.1,61.0,stress
+brinjal,dhalaitripura,cloudy,laterite,28.9,92.7,331.5,moderate
+cauliflower,westtripuratripura,cloudy,laterite,17.9,70.2,109.7,healthy
+tomato,khowaitripura,rainy,clay,30.7,78.8,281.8,stress
+cucumber,sepahijalatripura,warm,red,31.1,91.4,150.8,moderate
+okra,unokotitripura,cool,red,30.9,84.5,381.0,healthy
+cauliflower,westtripuratripura,rainy,sandy loam,24.9,73.5,227.4,stress
+beans,dhalaitripura,warm,loam,34.7,92.5,316.3,moderate
+spinach,sepahijalatripura,rainy,alluvial,27.3,80.5,155.8,healthy
+pumpkin,westtripuratripura,hot,laterite,32.3,77.4,179.1,stress
+chilli,unokotitripura,hot,alluvial,31.3,71.0,183.3,moderate
+bottle gourd,sepahijalatripura,warm,clay,31.9,89.7,205.6,healthy
+spinach,northtripuratripura,humid,clay,22.9,87.7,229.6,stress
+cabbage,unokotitripura,rainy,alluvial,17.6,92.0,143.6,moderate
+cauliflower,westtripuratripura,rainy,alluvial,24.2,70.7,248.9,healthy
+bottle gourd,khowaitripura,rainy,sandy loam,23.1,91.3,173.8,stress
+okra,sepahijalatripura,cool,sandy loam,30.9,69.8,279.8,moderate
+potato,westtripuratripura,rainy,clay,20.6,70.5,96.6,healthy
+tomato,sepahijalatripura,cool,alluvial,30.4,68.2,149.9,stress
+tomato,southtripuratripura,humid,alluvial,29.5,66.5,246.7,moderate
+pumpkin,sepahijalatripura,rainy,sandy loam,27.8,89.7,165.8,healthy
+okra,unokotitripura,cloudy,red,30.9,67.0,191.8,stress
+okra,sepahijalatripura,cool,clay loam,33.4,93.6,367.7,moderate
+cabbage,sepahijalatripura,humid,clay,24.0,87.5,382.1,healthy
+cabbage,unokotitripura,rainy,clay,23.9,76.6,379.1,stress
+spinach,khowaitripura,warm,loam,15.7,65.7,268.9,moderate
+chilli,sepahijalatripura,humid,alluvial,22.9,65.8,253.1,healthy
+cauliflower,sepahijalatripura,cloudy,alluvial,19.6,84.9,399.8,stress
+bottle gourd,sepahijalatripura,humid,laterite,23.5,76.9,177.4,moderate
+cauliflower,westtripuratripura,rainy,clay,19.6,74.3,332.0,healthy
+okra,unokotitripura,hot,sandy loam,23.9,70.8,94.9,stress
+pumpkin,southtripuratripura,humid,clay loam,29.3,93.3,363.7,moderate
+cabbage,gomatitripura,warm,alluvial,27.6,74.1,249.7,healthy
+brinjal,unokotitripura,rainy,alluvial,28.4,72.8,212.2,stress
+cauliflower,gomatitripura,humid,laterite,17.8,68.4,165.7,moderate
+pumpkin,northtripuratripura,rainy,red,30.6,65.1,252.5,healthy
+pumpkin,westtripuratripura,humid,alluvial,25.8,85.5,77.2,stress
+spinach,unokotitripura,rainy,clay,16.5,73.7,235.0,moderate
+okra,westtripuratripura,warm,sandy loam,24.7,91.8,69.4,healthy
+cabbage,northtripuratripura,humid,alluvial,25.5,77.4,322.5,stress
+pumpkin,sepahijalatripura,rainy,alluvial,22.7,68.2,280.4,moderate
+spinach,dhalaitripura,cloudy,loam,21.4,75.4,342.4,healthy
+tomato,northtripuratripura,hot,laterite,29.5,91.6,314.7,stress
+cabbage,dhalaitripura,cloudy,red,26.7,90.5,256.1,moderate
+beans,unokotitripura,rainy,sandy loam,23.1,80.3,112.8,healthy
+okra,unokotitripura,rainy,clay loam,33.6,73.4,108.1,stress
+brinjal,dhalaitripura,hot,clay,26.6,71.8,381.5,moderate
+cauliflower,southtripuratripura,cloudy,clay loam,24.3,66.8,327.1,healthy
+chilli,westtripuratripura,warm,loam,25.6,88.7,255.7,stress
+potato,gomatitripura,warm,clay,21.1,80.3,353.9,moderate
+pumpkin,westtripuratripura,cool,alluvial,23.0,71.9,305.6,healthy
+chilli,sepahijalatripura,warm,red,32.4,92.9,195.2,stress
+chilli,gomatitripura,warm,sandy loam,23.2,93.7,278.0,moderate
+cabbage,southtripuratripura,hot,alluvial,17.0,79.4,234.7,healthy
+pumpkin,sepahijalatripura,warm,laterite,33.6,78.0,225.4,stress
+brinjal,khowaitripura,cool,loam,32.3,86.1,335.0,moderate
+okra,sepahijalatripura,hot,clay,23.9,91.6,366.3,healthy
+tomato,khowaitripura,rainy,clay,27.0,69.3,319.0,stress
+beans,dhalaitripura,warm,loam,24.8,73.8,164.3,moderate
+bottle gourd,unokotitripura,warm,loam,27.4,75.2,165.0,healthy
+beans,unokotitripura,hot,alluvial,31.5,77.8,247.1,stress
+spinach,gomatitripura,hot,sandy loam,20.1,83.5,304.7,moderate
+chilli,southtripuratripura,warm,clay,27.5,87.3,221.1,healthy
+spinach,southtripuratripura,cloudy,alluvial,25.4,94.3,132.3,stress
+cucumber,sepahijalatripura,hot,laterite,28.8,86.5,213.2,moderate
+spinach,southtripuratripura,warm,alluvial,16.6,73.8,338.2,healthy
+cauliflower,sepahijalatripura,cloudy,alluvial,16.4,73.7,148.1,stress
+tomato,khowaitripura,hot,clay,33.7,79.0,227.8,moderate
+cauliflower,westtripuratripura,rainy,clay loam,22.2,90.4,328.9,healthy
+cabbage,northtripuratripura,cloudy,red,22.4,76.1,259.4,stress
+beans,northtripuratripura,humid,red,33.3,82.3,201.2,moderate
+bottle gourd,northtripuratripura,cloudy,sandy loam,23.8,81.9,71.5,healthy
+brinjal,westtripuratripura,hot,sandy loam,33.1,85.9,142.2,stress
+bottle gourd,unokotitripura,hot,sandy loam,32.7,88.1,379.2,moderate
+potato,khowaitripura,cloudy,alluvial,27.4,65.7,378.3,healthy
+tomato,unokotitripura,cool,clay,24.3,90.1,322.7,stress
+cucumber,khowaitripura,rainy,loam,30.4,78.3,112.6,moderate
+cauliflower,unokotitripura,cloudy,clay loam,27.0,78.2,187.1,healthy
+cauliflower,unokotitripura,hot,red,16.4,89.6,128.5,stress
+spinach,gomatitripura,hot,red,19.9,83.4,98.1,moderate
+brinjal,khowaitripura,cool,red,22.3,69.2,294.8,healthy
+tomato,sepahijalatripura,hot,clay loam,25.8,85.5,82.2,stress
+brinjal,westtripuratripura,humid,loam,28.4,67.3,136.4,moderate
+tomato,westtripuratripura,warm,clay loam,33.8,75.2,315.8,healthy
+cauliflower,westtripuratripura,humid,sandy loam,18.5,77.9,303.3,stress
+bottle gourd,southtripuratripura,hot,loam,28.1,69.1,189.1,moderate
+beans,sepahijalatripura,rainy,alluvial,23.9,67.7,371.7,healthy
+okra,southtripuratripura,hot,alluvial,27.4,93.8,304.2,stress
+bottle gourd,southtripuratripura,humid,red,33.9,78.8,296.9,moderate
+chilli,westtripuratripura,humid,laterite,28.1,85.8,171.0,healthy
+spinach,southtripuratripura,warm,loam,22.3,90.3,361.3,stress
+brinjal,sepahijalatripura,cloudy,alluvial,33.5,68.3,200.0,moderate
+bottle gourd,dhalaitripura,humid,red,25.1,68.8,364.2,healthy
+cabbage,unokotitripura,warm,clay,15.0,77.8,170.6,stress
+brinjal,khowaitripura,humid,clay,31.7,86.5,130.4,moderate
+tomato,dhalaitripura,warm,clay loam,33.7,87.3,229.3,healthy
+pumpkin,unokotitripura,cool,alluvial,24.2,72.5,387.3,stress
+spinach,unokotitripura,cool,clay,24.6,78.8,231.8,moderate
+beans,northtripuratripura,hot,clay,28.3,89.4,332.9,healthy
+pumpkin,sepahijalatripura,warm,clay,27.3,67.8,229.1,stress
+potato,dhalaitripura,warm,clay loam,22.8,89.3,187.3,moderate
+potato,southtripuratripura,rainy,laterite,22.3,67.7,91.6,healthy
+cauliflower,dhalaitripura,warm,clay loam,15.1,90.0,95.8,stress
+beans,khowaitripura,humid,alluvial,23.3,72.4,207.1,moderate
+spinach,dhalaitripura,rainy,loam,20.3,85.3,248.5,healthy
+tomato,sepahijalatripura,rainy,red,25.1,74.8,247.0,stress
+bottle gourd,northtripuratripura,cool,loam,30.7,90.8,162.6,moderate
+potato,sepahijalatripura,cool,red,19.9,75.9,182.4,healthy
+tomato,khowaitripura,cloudy,sandy loam,22.9,90.6,350.3,stress
+beans,westtripuratripura,hot,clay loam,25.7,85.4,218.0,moderate
+pumpkin,unokotitripura,humid,clay,32.4,72.5,115.7,healthy
+cabbage,westtripuratripura,rainy,alluvial,24.3,73.0,353.7,stress
+chilli,unokotitripura,cloudy,laterite,23.6,76.6,383.7,moderate
+spinach,southtripuratripura,warm,clay loam,25.8,93.7,249.6,healthy
+spinach,khowaitripura,hot,laterite,18.9,88.2,61.2,stress
+tomato,westtripuratripura,humid,laterite,27.6,82.9,271.4,moderate
+spinach,northtripuratripura,cloudy,sandy loam,17.1,73.4,298.0,healthy
+potato,khowaitripura,cool,clay,16.1,70.7,84.9,stress
+chilli,northtripuratripura,humid,alluvial,33.3,75.3,271.5,moderate
+cucumber,khowaitripura,humid,laterite,29.6,85.0,227.1,healthy
+cabbage,khowaitripura,humid,sandy loam,15.1,80.4,390.8,stress
+cucumber,gomatitripura,humid,alluvial,32.2,79.0,384.7,moderate
+tomato,sepahijalatripura,cool,loam,32.0,69.9,247.1,healthy
+tomato,dhalaitripura,cool,laterite,24.8,88.0,381.5,stress
+cauliflower,sepahijalatripura,warm,loam,17.4,67.9,163.5,moderate
+cucumber,dhalaitripura,cloudy,alluvial,33.6,67.9,327.1,healthy
+tomato,unokotitripura,cool,clay loam,23.9,70.3,351.0,stress
+pumpkin,dhalaitripura,rainy,loam,33.4,68.6,364.4,moderate
+cabbage,northtripuratripura,hot,red,23.9,79.7,227.6,healthy
+tomato,gomatitripura,humid,loam,31.3,94.1,246.0,stress
+beans,dhalaitripura,humid,laterite,32.1,70.1,379.0,moderate
+spinach,sepahijalatripura,cloudy,alluvial,21.3,66.7,276.9,healthy
+spinach,unokotitripura,hot,laterite,24.3,65.2,266.2,stress
+bottle gourd,dhalaitripura,warm,clay loam,25.7,83.5,84.0,moderate
+cucumber,gomatitripura,warm,sandy loam,25.4,91.6,252.8,healthy
+chilli,khowaitripura,rainy,clay,32.6,71.9,239.5,stress
+beans,khowaitripura,rainy,alluvial,24.5,89.2,379.2,moderate
+brinjal,unokotitripura,cloudy,loam,26.6,76.9,314.6,healthy
+cauliflower,northtripuratripura,rainy,loam,21.6,68.4,237.1,stress
+chilli,gomatitripura,warm,sandy loam,27.5,66.4,151.5,moderate
+cucumber,unokotitripura,warm,alluvial,31.6,84.9,194.7,healthy
+okra,gomatitripura,hot,alluvial,27.7,69.5,105.9,stress
+potato,sepahijalatripura,humid,clay loam,23.7,89.5,333.6,moderate
+brinjal,westtripuratripura,humid,red,30.9,65.2,231.1,healthy
+tomato,unokotitripura,humid,clay,24.6,71.0,121.5,stress
+spinach,khowaitripura,warm,sandy loam,17.3,78.8,101.5,moderate
+tomato,sepahijalatripura,hot,loam,30.9,85.4,343.1,healthy
+brinjal,westtripuratripura,cool,laterite,24.5,71.7,280.6,stress
+cucumber,khowaitripura,cool,alluvial,25.1,84.0,117.9,moderate
+pumpkin,dhalaitripura,humid,sandy loam,34.3,87.5,261.0,healthy
+okra,dhalaitripura,humid,clay,30.7,81.8,149.8,stress
+pumpkin,dhalaitripura,humid,alluvial,29.6,68.2,346.9,moderate
+potato,northtripuratripura,cool,red,20.5,84.9,67.5,healthy
+chilli,sepahijalatripura,rainy,laterite,24.5,89.3,369.6,stress
+spinach,westtripuratripura,humid,sandy loam,26.9,89.4,87.7,moderate
+tomato,sepahijalatripura,hot,sandy loam,32.7,73.8,125.3,healthy
+cabbage,northtripuratripura,humid,clay loam,25.2,76.6,86.9,stress
+beans,khowaitripura,cloudy,laterite,28.6,87.1,269.9,moderate
+cucumber,khowaitripura,cloudy,laterite,29.2,81.0,233.2,healthy
+cabbage,dhalaitripura,warm,laterite,27.2,77.6,381.3,stress
+brinjal,northtripuratripura,humid,alluvial,27.5,76.0,285.6,moderate
+potato,khowaitripura,humid,clay loam,18.5,68.1,78.3,healthy
+cucumber,dhalaitripura,hot,sandy loam,30.9,65.4,321.3,stress
+chilli,khowaitripura,cool,laterite,32.2,74.9,313.2,moderate
+beans,unokotitripura,rainy,clay,31.9,90.8,323.6,healthy
+bottle gourd,unokotitripura,warm,sandy loam,22.5,78.6,111.7,stress
+spinach,southtripuratripura,cool,loam,18.3,71.1,148.9,moderate
+cauliflower,gomatitripura,cloudy,alluvial,15.6,91.7,65.9,healthy
+okra,gomatitripura,cloudy,clay,25.1,67.9,141.0,stress
+cauliflower,gomatitripura,rainy,laterite,23.2,84.7,230.2,moderate
+cabbage,dhalaitripura,cloudy,alluvial,21.5,79.2,88.0,healthy
+chilli,sepahijalatripura,warm,clay,26.6,83.1,316.8,stress
+cucumber,dhalaitripura,cloudy,alluvial,27.8,80.8,152.1,moderate
+bottle gourd,northtripuratripura,rainy,clay,32.0,85.5,396.4,healthy
+cauliflower,westtripuratripura,cloudy,loam,24.5,94.6,149.5,stress
+chilli,khowaitripura,cloudy,red,30.3,67.0,102.2,moderate
+bottle gourd,gomatitripura,cool,sandy loam,25.9,68.2,221.7,healthy
+brinjal,westtripuratripura,humid,loam,24.3,66.2,316.7,stress
+chilli,dhalaitripura,hot,alluvial,23.2,70.8,235.3,moderate
+spinach,khowaitripura,cloudy,alluvial,26.5,65.1,230.7,healthy
+okra,dhalaitripura,cool,clay loam,22.7,65.0,304.6,stress
+tomato,unokotitripura,humid,sandy loam,23.0,75.3,356.1,moderate
+okra,unokotitripura,hot,clay loam,22.5,70.1,82.2,healthy
+spinach,southtripuratripura,warm,clay loam,19.5,80.3,306.7,stress
+chilli,dhalaitripura,rainy,clay,24.4,82.0,137.9,moderate
+spinach,khowaitripura,warm,laterite,22.0,82.2,265.8,healthy
+brinjal,gomatitripura,hot,red,33.9,94.2,251.9,stress
+bottle gourd,dhalaitripura,warm,alluvial,32.9,87.0,177.3,moderate
+spinach,gomatitripura,cloudy,sandy loam,27.4,73.0,124.8,healthy
+brinjal,khowaitripura,humid,red,28.8,72.7,319.2,stress
+brinjal,khowaitripura,warm,clay,23.0,79.3,348.4,moderate
+cabbage,northtripuratripura,warm,clay,20.4,77.8,143.4,healthy
+beans,sepahijalatripura,cool,clay,23.0,69.2,387.2,stress
+cauliflower,dhalaitripura,hot,laterite,20.6,93.1,280.4,moderate
+potato,westtripuratripura,humid,alluvial,16.4,69.1,267.5,healthy
+cabbage,southtripuratripura,hot,alluvial,15.1,71.4,197.1,stress
+potato,westtripuratripura,hot,clay,19.4,68.6,342.9,moderate
+chilli,westtripuratripura,rainy,alluvial,34.9,77.7,259.7,healthy
+okra,northtripuratripura,warm,sandy loam,29.9,76.1,392.5,stress
+beans,northtripuratripura,cloudy,laterite,27.2,67.9,214.5,moderate
+okra,westtripuratripura,humid,sandy loam,28.1,83.9,294.4,healthy
+potato,dhalaitripura,cool,loam,16.2,90.5,193.0,stress
+bottle gourd,southtripuratripura,cool,laterite,34.4,93.6,273.7,moderate
+bottle gourd,dhalaitripura,cloudy,loam,34.6,85.4,76.0,healthy
+cauliflower,dhalaitripura,cloudy,sandy loam,16.3,83.3,186.3,stress
+beans,northtripuratripura,cloudy,alluvial,23.3,68.9,366.6,moderate
+okra,khowaitripura,cool,alluvial,29.8,89.7,131.5,healthy
+cauliflower,dhalaitripura,cool,laterite,23.9,90.2,230.8,stress
+beans,khowaitripura,rainy,red,29.2,69.6,71.5,moderate
+cauliflower,dhalaitripura,rainy,laterite,21.5,85.5,225.1,healthy
+beans,northtripuratripura,cool,clay,26.1,68.3,124.7,stress
+cabbage,northtripuratripura,humid,alluvial,20.6,91.1,251.0,moderate
+chilli,gomatitripura,humid,clay,28.6,89.3,333.0,healthy
+pumpkin,dhalaitripura,humid,sandy loam,24.6,65.8,235.6,stress
+cucumber,southtripuratripura,cloudy,laterite,31.4,88.0,349.5,moderate
+tomato,khowaitripura,hot,loam,22.0,66.3,295.2,healthy
+bottle gourd,dhalaitripura,warm,sandy loam,29.2,73.4,272.4,stress
+bottle gourd,northtripuratripura,cool,clay,22.2,89.3,169.8,moderate
+bottle gourd,northtripuratripura,cool,laterite,31.5,84.7,110.5,healthy
+beans,unokotitripura,rainy,laterite,34.2,78.5,359.4,stress
+cucumber,sepahijalatripura,cloudy,sandy loam,25.8,74.2,344.1,moderate
+cucumber,khowaitripura,warm,clay loam,31.3,94.7,398.4,healthy
+cauliflower,northtripuratripura,cool,loam,24.3,71.6,101.7,stress
+cucumber,northtripuratripura,hot,red,30.7,73.5,375.9,moderate
+cabbage,northtripuratripura,humid,clay loam,18.1,72.3,307.3,healthy
+okra,khowaitripura,rainy,loam,23.7,89.2,161.6,stress
+chilli,westtripuratripura,rainy,alluvial,33.6,81.3,289.3,moderate
+tomato,southtripuratripura,rainy,sandy loam,33.7,87.1,339.0,healthy
+beans,southtripuratripura,warm,loam,25.4,88.0,81.7,stress
+cucumber,sepahijalatripura,hot,clay,31.3,65.2,373.8,moderate
+cucumber,khowaitripura,rainy,laterite,26.1,83.5,229.7,healthy
+cucumber,unokotitripura,warm,sandy loam,25.1,73.7,356.0,stress
+bottle gourd,westtripuratripura,rainy,alluvial,31.2,77.0,257.6,moderate
+cauliflower,southtripuratripura,cool,clay loam,27.4,89.3,120.2,healthy
+cucumber,khowaitripura,rainy,clay,34.0,81.5,168.2,stress
+tomato,southtripuratripura,warm,clay,31.7,73.8,252.6,moderate
+spinach,northtripuratripura,cloudy,laterite,21.8,65.6,133.0,healthy
+cauliflower,westtripuratripura,rainy,sandy loam,20.1,93.0,375.5,stress
+tomato,westtripuratripura,cloudy,alluvial,25.3,78.3,138.4,moderate
+potato,gomatitripura,humid,laterite,17.4,67.7,71.4,healthy
+spinach,westtripuratripura,humid,laterite,17.6,90.2,306.2,stress
+brinjal,khowaitripura,cloudy,laterite,25.8,69.3,234.3,moderate
+cauliflower,unokotitripura,warm,clay loam,27.3,88.8,262.9,healthy
+pumpkin,westtripuratripura,warm,laterite,25.4,84.9,339.5,stress
+cucumber,gomatitripura,rainy,clay,26.3,66.0,262.8,moderate
+okra,unokotitripura,humid,clay,33.2,93.3,278.0,healthy
+beans,southtripuratripura,warm,loam,31.3,75.7,297.3,stress
+bottle gourd,dhalaitripura,rainy,clay,32.0,74.7,177.8,moderate
+chilli,sepahijalatripura,cloudy,red,32.7,83.7,187.9,healthy
+potato,gomatitripura,cool,sandy loam,18.5,79.0,223.7,stress
+tomato,northtripuratripura,rainy,loam,30.4,69.2,165.2,moderate
+tomato,dhalaitripura,cloudy,clay,23.4,94.4,372.1,healthy
+bottle gourd,gomatitripura,warm,clay,29.5,91.2,338.5,stress
+brinjal,sepahijalatripura,hot,red,31.8,92.3,223.4,moderate
+potato,southtripuratripura,hot,red,26.6,82.5,273.1,healthy
+spinach,gomatitripura,cool,sandy loam,26.2,65.2,388.9,stress
+cauliflower,westtripuratripura,rainy,clay loam,25.6,91.2,63.2,moderate
+chilli,westtripuratripura,warm,laterite,22.9,79.5,352.0,healthy
+brinjal,westtripuratripura,hot,clay loam,33.2,73.5,138.5,stress
+cucumber,khowaitripura,cool,laterite,23.2,94.3,163.0,moderate
+chilli,khowaitripura,cloudy,laterite,29.6,68.9,155.0,healthy
+pumpkin,gomatitripura,cool,red,34.0,90.1,313.1,stress
+cabbage,westtripuratripura,rainy,clay loam,16.6,66.5,241.3,moderate
+cauliflower,northtripuratripura,cool,sandy loam,27.4,83.8,294.4,healthy
+chilli,southtripuratripura,humid,sandy loam,22.3,87.6,359.2,stress
+tomato,westtripuratripura,humid,alluvial,22.7,94.8,200.8,moderate
+beans,unokotitripura,warm,alluvial,26.0,74.0,140.9,healthy
+potato,sepahijalatripura,warm,clay loam,15.1,75.0,180.9,stress
+tomato,northtripuratripura,warm,red,28.3,78.1,283.2,moderate
+cauliflower,unokotitripura,cool,clay loam,20.9,81.8,289.2,healthy
+cauliflower,southtripuratripura,cloudy,red,20.1,72.1,122.7,stress
+cauliflower,unokotitripura,cool,clay,15.3,74.3,368.3,moderate
+spinach,westtripuratripura,rainy,laterite,19.9,76.5,220.4,healthy
+bottle gourd,dhalaitripura,cool,loam,23.1,69.8,370.7,stress
+okra,gomatitripura,cloudy,clay,28.9,75.8,150.5,moderate
+bottle gourd,unokotitripura,humid,loam,29.3,93.7,266.1,healthy
+bottle gourd,unokotitripura,humid,clay loam,31.6,80.7,206.3,stress
+tomato,dhalaitripura,cloudy,laterite,22.7,78.1,262.1,moderate
+okra,gomatitripura,cloudy,alluvial,27.1,87.5,347.2,healthy
+okra,southtripuratripura,warm,loam,27.1,71.7,275.2,stress
+potato,westtripuratripura,cool,clay loam,24.7,74.7,144.9,moderate
+cauliflower,gomatitripura,cloudy,laterite,15.3,73.2,356.0,healthy
+cucumber,dhalaitripura,cloudy,clay,27.0,94.4,98.3,stress
+cucumber,southtripuratripura,warm,clay loam,31.8,91.4,280.9,moderate
+brinjal,gomatitripura,rainy,alluvial,22.7,69.3,377.9,healthy
+tomato,unokotitripura,hot,sandy loam,24.8,94.1,212.4,stress
+brinjal,northtripuratripura,warm,loam,26.2,79.0,329.2,moderate
+okra,sepahijalatripura,cloudy,clay,24.3,78.1,398.0,healthy
+okra,khowaitripura,humid,loam,27.1,83.5,176.4,stress
+spinach,northtripuratripura,cloudy,red,25.3,88.8,152.1,moderate
+cauliflower,dhalaitripura,warm,loam,26.6,91.0,223.4,healthy
+beans,khowaitripura,warm,clay loam,31.6,86.2,163.5,stress
+cabbage,westtripuratripura,warm,laterite,19.3,73.4,249.8,moderate
+pumpkin,sepahijalatripura,cloudy,alluvial,34.2,68.3,395.5,healthy
+bottle gourd,khowaitripura,cloudy,red,23.1,65.6,209.8,stress
+brinjal,sepahijalatripura,hot,loam,31.3,82.9,211.3,moderate
+brinjal,dhalaitripura,warm,red,32.0,79.1,162.1,healthy
+potato,northtripuratripura,humid,laterite,15.3,83.3,381.4,stress
+chilli,gomatitripura,cool,red,25.1,77.1,276.3,moderate
+bottle gourd,khowaitripura,hot,clay loam,24.8,84.5,69.4,healthy
+bottle gourd,southtripuratripura,warm,laterite,26.7,65.9,328.9,stress
+potato,westtripuratripura,warm,sandy loam,20.7,79.7,93.3,moderate
+potato,dhalaitripura,rainy,loam,27.5,78.5,206.1,healthy
+chilli,northtripuratripura,hot,loam,31.3,93.9,295.6,stress
+okra,southtripuratripura,hot,laterite,22.9,68.4,389.3,moderate
+chilli,unokotitripura,rainy,red,33.8,93.9,223.5,healthy
+okra,gomatitripura,rainy,loam,32.4,77.2,184.8,stress
+spinach,khowaitripura,rainy,red,20.6,82.2,256.5,moderate
+beans,unokotitripura,cloudy,loam,23.3,75.9,77.6,healthy
+spinach,westtripuratripura,cool,sandy loam,22.9,71.6,86.2,stress
+cabbage,gomatitripura,rainy,red,26.9,82.3,342.8,moderate
+bottle gourd,dhalaitripura,cloudy,alluvial,26.6,72.7,359.4,healthy
+brinjal,westtripuratripura,cloudy,red,23.7,66.6,183.1,stress
+beans,sepahijalatripura,humid,red,24.0,69.4,141.6,moderate
+bottle gourd,westtripuratripura,cloudy,laterite,28.3,83.2,276.6,healthy
+bottle gourd,northtripuratripura,cloudy,loam,25.1,74.1,152.2,stress
+tomato,southtripuratripura,cloudy,red,24.8,77.3,170.8,moderate
+cabbage,khowaitripura,humid,laterite,26.6,80.4,292.9,healthy
+cabbage,northtripuratripura,cool,loam,16.0,70.2,204.7,stress
+cabbage,dhalaitripura,cool,red,23.3,77.6,308.7,moderate
+chilli,dhalaitripura,humid,sandy loam,26.1,89.8,321.3,healthy
+cauliflower,westtripuratripura,hot,sandy loam,22.0,67.9,244.3,stress
+cauliflower,sepahijalatripura,cool,red,17.6,66.4,99.2,moderate
+bottle gourd,sepahijalatripura,rainy,laterite,28.4,75.5,222.6,healthy
+potato,dhalaitripura,hot,alluvial,24.4,76.5,392.4,stress
+cucumber,northtripuratripura,cloudy,laterite,25.5,77.7,117.4,moderate
+cucumber,sepahijalatripura,rainy,clay,31.5,68.7,68.1,healthy
+cabbage,gomatitripura,rainy,loam,27.4,67.3,341.4,stress
+potato,southtripuratripura,warm,red,27.5,83.5,85.8,moderate
+cabbage,khowaitripura,warm,sandy loam,16.4,86.1,327.2,healthy
+tomato,northtripuratripura,rainy,red,25.4,84.6,270.1,stress
+cauliflower,gomatitripura,rainy,loam,24.0,66.8,395.6,moderate
+beans,dhalaitripura,warm,clay,32.0,74.3,349.7,healthy
+cabbage,unokotitripura,rainy,red,27.0,84.3,195.2,stress
+spinach,khowaitripura,cool,clay loam,17.0,73.1,363.6,moderate
+spinach,dhalaitripura,humid,red,23.3,69.5,117.9,healthy
+cucumber,unokotitripura,hot,laterite,34.6,69.1,110.1,stress
+okra,khowaitripura,rainy,loam,32.6,65.3,205.6,moderate
+tomato,dhalaitripura,hot,clay,33.3,84.3,366.2,healthy
+cucumber,sepahijalatripura,cool,clay,30.4,73.3,358.9,stress
+chilli,dhalaitripura,humid,clay loam,22.6,71.4,233.2,moderate
+cabbage,sepahijalatripura,rainy,clay loam,27.1,89.4,287.0,healthy
+potato,gomatitripura,cloudy,loam,17.2,76.0,323.7,stress
+cabbage,dhalaitripura,humid,clay,18.4,69.6,69.3,moderate
+brinjal,gomatitripura,warm,clay loam,29.1,87.2,92.8,healthy
+tomato,northtripuratripura,warm,red,23.8,92.2,91.7,stress
+brinjal,sepahijalatripura,rainy,sandy loam,27.0,81.9,79.0,moderate
+bottle gourd,unokotitripura,warm,clay,27.7,87.6,241.0,healthy
+cabbage,sepahijalatripura,rainy,clay,15.8,75.3,137.9,stress
+beans,dhalaitripura,hot,alluvial,23.0,69.6,271.2,moderate
+pumpkin,unokotitripura,rainy,clay,30.7,87.2,136.9,healthy
+chilli,khowaitripura,rainy,clay loam,26.8,81.4,264.3,stress
+brinjal,gomatitripura,rainy,clay loam,24.4,67.0,270.1,moderate
+beans,khowaitripura,hot,loam,32.3,75.1,225.1,healthy
+tomato,sepahijalatripura,warm,red,34.8,86.0,307.9,stress
+bottle gourd,gomatitripura,humid,alluvial,28.8,66.3,276.6,moderate
+pumpkin,unokotitripura,humid,alluvial,33.0,76.7,132.4,healthy
+beans,sepahijalatripura,cool,clay loam,25.3,66.4,108.5,stress
+beans,westtripuratripura,rainy,loam,33.1,86.0,86.7,moderate
+bottle gourd,dhalaitripura,warm,alluvial,30.6,71.3,378.2,healthy
+potato,dhalaitripura,humid,laterite,15.3,94.2,102.1,stress
+okra,westtripuratripura,warm,sandy loam,29.4,91.4,225.0,moderate
+cauliflower,unokotitripura,warm,clay loam,21.9,90.5,108.3,healthy
+bottle gourd,dhalaitripura,rainy,clay loam,34.8,81.3,280.9,stress
+cabbage,unokotitripura,cloudy,clay loam,22.2,73.8,83.2,moderate
+chilli,dhalaitripura,hot,clay,24.9,86.1,232.1,healthy
+cauliflower,northtripuratripura,cool,clay loam,21.1,72.0,265.4,stress
+tomato,khowaitripura,hot,alluvial,25.6,79.2,320.3,moderate
+tomato,khowaitripura,warm,red,33.9,84.4,248.1,healthy
+cauliflower,unokotitripura,cool,clay,16.7,82.0,382.4,stress
+pumpkin,southtripuratripura,humid,laterite,29.3,73.8,71.5,moderate
+okra,sepahijalatripura,warm,clay,25.8,75.3,284.8,healthy
+pumpkin,southtripuratripura,cool,loam,29.6,70.4,308.7,stress
+cabbage,sepahijalatripura,cloudy,red,19.5,93.7,361.1,moderate
+chilli,dhalaitripura,hot,sandy loam,29.7,85.4,371.3,healthy
+beans,gomatitripura,cloudy,sandy loam,23.5,87.4,222.9,stress
+spinach,northtripuratripura,humid,laterite,25.8,74.4,77.8,moderate
+bottle gourd,southtripuratripura,warm,clay loam,23.1,73.8,364.7,healthy
+brinjal,northtripuratripura,warm,clay loam,23.8,89.7,78.5,stress
+okra,sepahijalatripura,rainy,red,32.9,91.1,336.4,moderate
+bottle gourd,westtripuratripura,cloudy,clay loam,29.7,86.2,112.5,healthy
+chilli,sepahijalatripura,warm,red,28.0,84.0,186.9,stress
+potato,southtripuratripura,cool,sandy loam,21.2,88.7,122.9,moderate
+spinach,sepahijalatripura,warm,clay,21.0,94.3,232.5,healthy
+cucumber,gomatitripura,rainy,laterite,27.9,89.4,246.9,stress
+brinjal,dhalaitripura,hot,clay,33.3,84.6,178.4,moderate
+chilli,northtripuratripura,warm,sandy loam,27.8,75.3,74.1,healthy
+potato,unokotitripura,humid,loam,21.4,80.4,350.9,stress
+cabbage,unokotitripura,cloudy,laterite,24.5,84.5,139.4,moderate
+cucumber,gomatitripura,cloudy,laterite,30.7,69.0,124.4,healthy
+chilli,unokotitripura,humid,laterite,28.2,88.6,268.8,stress
+cauliflower,dhalaitripura,cool,red,18.0,82.4,121.3,moderate
+spinach,westtripuratripura,warm,sandy loam,24.1,77.4,393.9,healthy
+bottle gourd,dhalaitripura,cool,alluvial,34.8,87.3,226.7,stress
+cabbage,westtripuratripura,warm,sandy loam,26.9,66.4,359.9,moderate
+okra,westtripuratripura,warm,clay,30.8,68.2,351.4,healthy
+cabbage,unokotitripura,cloudy,alluvial,15.5,72.3,107.9,stress
+cabbage,khowaitripura,warm,loam,16.0,79.5,239.0,moderate
+cucumber,sepahijalatripura,rainy,red,33.6,89.9,132.3,healthy
+cauliflower,southtripuratripura,humid,alluvial,16.5,70.0,83.1,stress
+chilli,khowaitripura,cool,laterite,23.9,80.7,318.7,moderate
+cucumber,dhalaitripura,cloudy,laterite,29.1,75.2,327.0,healthy
+okra,westtripuratripura,cloudy,laterite,26.2,79.6,71.8,stress
+beans,southtripuratripura,cloudy,loam,27.2,67.5,329.2,moderate
+chilli,sepahijalatripura,cloudy,alluvial,27.5,85.1,128.9,healthy
+pumpkin,gomatitripura,humid,red,24.6,69.1,98.4,stress
+beans,southtripuratripura,humid,laterite,26.9,69.9,80.0,moderate
+tomato,dhalaitripura,hot,sandy loam,27.5,88.6,235.6,healthy
+okra,dhalaitripura,rainy,laterite,23.3,92.6,191.4,stress
+tomato,southtripuratripura,cool,red,29.5,88.5,70.1,moderate
+pumpkin,southtripuratripura,cool,red,22.3,79.6,227.0,healthy
+cucumber,southtripuratripura,cool,clay loam,25.6,73.2,259.5,stress
+cabbage,unokotitripura,hot,alluvial,17.1,67.5,121.3,moderate
+brinjal,southtripuratripura,warm,clay loam,27.4,90.1,320.4,healthy
+cucumber,sepahijalatripura,cool,red,27.9,67.9,308.0,stress
+chilli,khowaitripura,hot,clay loam,30.8,70.6,280.7,moderate
+tomato,westtripuratripura,humid,red,34.8,84.7,237.8,healthy
+cabbage,gomatitripura,cloudy,loam,26.0,69.5,121.5,stress
+pumpkin,dhalaitripura,hot,sandy loam,31.9,95.0,123.7,moderate
+chilli,dhalaitripura,warm,clay loam,27.0,78.4,100.5,healthy
+beans,dhalaitripura,humid,sandy loam,29.1,79.6,398.8,stress
+cauliflower,dhalaitripura,warm,clay loam,15.8,83.7,97.5,moderate
+okra,northtripuratripura,cool,sandy loam,25.8,83.6,361.7,healthy
+cauliflower,sepahijalatripura,cloudy,clay,17.3,88.3,357.6,stress
+spinach,khowaitripura,cool,clay loam,15.0,75.3,381.2,moderate
+potato,gomatitripura,cloudy,laterite,20.8,79.3,301.3,healthy
+bottle gourd,southtripuratripura,humid,red,26.9,67.4,248.6,stress
+chilli,gomatitripura,humid,alluvial,34.1,94.7,353.2,moderate
+brinjal,northtripuratripura,hot,loam,27.3,73.8,362.6,healthy
+brinjal,unokotitripura,rainy,alluvial,29.3,72.3,133.0,stress
+spinach,dhalaitripura,humid,red,19.0,90.4,167.3,moderate
+okra,sepahijalatripura,warm,alluvial,32.1,79.7,70.0,healthy
+chilli,southtripuratripura,cool,red,28.4,90.2,231.5,stress
+bottle gourd,sepahijalatripura,cool,loam,32.6,92.3,126.7,moderate
+cabbage,gomatitripura,cool,alluvial,26.4,88.5,332.1,healthy
+brinjal,sepahijalatripura,warm,alluvial,32.2,68.9,312.9,stress
+cucumber,sepahijalatripura,cloudy,clay loam,27.9,88.7,64.8,moderate
+chilli,southtripuratripura,warm,red,33.0,77.2,125.6,healthy
+bottle gourd,westtripuratripura,warm,laterite,30.1,74.8,291.7,stress
+spinach,unokotitripura,cool,loam,19.2,86.8,349.3,moderate
+cabbage,khowaitripura,warm,sandy loam,24.7,86.2,158.2,healthy
+cucumber,southtripuratripura,cool,clay,25.7,92.8,75.5,stress
+mustard,sepahijalatripura,cloudy,red,23.4,70.7,125.0,healthy
+mango,northtripuratripura,cool,laterite,28.6,74.7,291.4,stress
+pineapple,gomatitripura,cloudy,laterite,32.8,84.3,411.4,moderate
+watermelon,khowaitripura,hot,red,29.8,88.4,402.2,healthy
+paddy,gomatitripura,cool,laterite,28.0,94.4,210.3,stress
+mustard,dhalaitripura,humid,clay loam,27.4,66.8,141.1,moderate
+maize,westtripuratripura,rainy,sandy loam,33.3,78.5,101.3,healthy
+guava,unokotitripura,cloudy,sandy loam,34.0,77.3,75.6,stress
+watermelon,sepahijalatripura,rainy,red,28.4,70.5,323.8,moderate
+maize,southtripuratripura,hot,loam,25.6,65.8,369.0,healthy
+mustard,dhalaitripura,warm,clay loam,30.0,69.3,366.6,stress
+pineapple,westtripuratripura,warm,clay,32.9,81.2,72.5,moderate
+maize,northtripuratripura,rainy,clay loam,30.6,89.5,303.4,healthy
+paddy,sepahijalatripura,hot,sandy loam,34.7,68.8,113.9,stress
+guava,dhalaitripura,cool,alluvial,25.0,84.3,311.7,moderate
+mustard,southtripuratripura,cloudy,loam,30.1,84.6,345.7,healthy
+guava,westtripuratripura,cool,sandy loam,27.6,73.6,334.2,stress
+maize,southtripuratripura,hot,laterite,31.1,87.7,324.7,moderate
+mango,unokotitripura,hot,loam,25.6,86.2,218.3,healthy
+mango,khowaitripura,hot,loam,25.6,83.8,260.4,stress
+guava,gomatitripura,warm,laterite,28.6,67.7,255.2,moderate
+moong,khowaitripura,cool,red,31.3,86.3,123.9,healthy
+watermelon,sepahijalatripura,warm,sandy loam,30.4,70.3,132.2,stress
+moong,southtripuratripura,warm,laterite,25.3,80.7,394.7,moderate
+guava,westtripuratripura,warm,red,31.1,74.2,343.6,healthy
+paddy,khowaitripura,hot,red,32.6,84.2,142.2,stress
+guava,sepahijalatripura,rainy,red,29.2,65.7,227.7,moderate
+moong,dhalaitripura,warm,clay,31.0,93.1,245.0,healthy
+moong,sepahijalatripura,cool,alluvial,24.4,93.9,216.8,stress
+paddy,southtripuratripura,cloudy,sandy loam,28.6,81.4,91.6,moderate
+pineapple,westtripuratripura,hot,alluvial,27.0,93.2,368.7,healthy
+lemon,dhalaitripura,humid,red,22.8,76.1,211.1,stress
+mustard,khowaitripura,rainy,clay loam,21.7,67.3,294.4,moderate
+moong,gomatitripura,humid,red,21.4,75.5,156.5,healthy
+moong,gomatitripura,hot,clay,27.9,79.2,221.3,stress
+maize,northtripuratripura,hot,sandy loam,30.8,83.5,322.5,moderate
+mustard,dhalaitripura,hot,clay loam,27.1,86.3,210.7,healthy
+mango,dhalaitripura,humid,alluvial,26.8,85.1,70.6,stress
+lemon,gomatitripura,warm,alluvial,25.7,89.5,194.1,moderate
+mustard,sepahijalatripura,hot,sandy loam,29.1,68.2,300.0,healthy
+moong,dhalaitripura,cool,clay,20.1,91.7,399.7,stress
+mustard,southtripuratripura,warm,clay,22.2,66.9,195.6,moderate
+watermelon,westtripuratripura,rainy,loam,33.8,89.7,259.2,healthy
+guava,khowaitripura,warm,loam,22.2,70.0,81.2,stress
+lemon,westtripuratripura,cool,sandy loam,33.8,70.7,394.2,moderate
+guava,gomatitripura,rainy,clay,30.3,73.4,207.9,healthy
+paddy,dhalaitripura,warm,laterite,27.9,82.7,164.7,stress
+pineapple,dhalaitripura,rainy,sandy loam,30.0,82.2,129.3,moderate
+pineapple,westtripuratripura,hot,loam,31.1,80.2,311.7,healthy
+pineapple,dhalaitripura,cloudy,clay loam,31.6,74.7,150.1,stress
+mango,khowaitripura,cloudy,clay loam,29.3,76.8,407.0,moderate
+watermelon,unokotitripura,rainy,red,32.4,72.7,391.6,healthy
+paddy,westtripuratripura,rainy,loam,26.4,84.9,178.5,stress
+mustard,northtripuratripura,warm,clay loam,28.0,79.7,138.4,moderate
+lemon,unokotitripura,cool,alluvial,23.4,91.5,331.3,healthy
+watermelon,southtripuratripura,cloudy,laterite,31.7,71.9,419.1,stress
+mustard,unokotitripura,warm,clay,23.3,94.1,290.6,moderate
+paddy,northtripuratripura,cool,alluvial,26.3,94.0,124.9,healthy
+lemon,dhalaitripura,cool,sandy loam,27.3,81.9,181.7,stress
+watermelon,northtripuratripura,cloudy,sandy loam,34.8,87.9,298.9,moderate
+paddy,dhalaitripura,warm,clay,33.2,68.6,166.0,healthy
+guava,westtripuratripura,humid,sandy loam,27.4,82.6,365.0,stress
+mango,sepahijalatripura,rainy,alluvial,27.6,79.8,243.6,moderate
+watermelon,southtripuratripura,hot,clay,30.4,88.0,146.7,healthy
+lemon,dhalaitripura,humid,red,24.2,84.5,399.0,stress
+guava,southtripuratripura,humid,sandy loam,22.7,74.9,387.9,moderate
+watermelon,gomatitripura,rainy,clay loam,33.1,78.1,299.0,healthy
+pineapple,southtripuratripura,cool,clay,26.8,87.2,372.8,stress
+guava,westtripuratripura,warm,clay loam,27.1,90.1,257.7,moderate
+maize,gomatitripura,humid,red,25.3,67.4,361.1,healthy
+watermelon,westtripuratripura,rainy,clay,28.8,74.1,122.5,stress
+moong,westtripuratripura,warm,alluvial,31.0,85.6,348.3,moderate
+watermelon,khowaitripura,rainy,loam,27.7,91.4,228.8,healthy
+guava,unokotitripura,warm,sandy loam,32.1,88.1,240.2,stress
+guava,southtripuratripura,cool,sandy loam,30.6,79.1,248.5,moderate
+pineapple,southtripuratripura,hot,clay,29.7,73.3,211.3,healthy
+moong,gomatitripura,warm,alluvial,29.8,82.1,121.5,stress
+paddy,unokotitripura,humid,loam,28.3,94.6,272.7,moderate
+mustard,unokotitripura,rainy,clay loam,27.8,66.0,382.0,healthy
+watermelon,gomatitripura,humid,alluvial,33.6,79.6,158.8,stress
+watermelon,khowaitripura,humid,loam,27.2,79.8,390.6,moderate
+paddy,sepahijalatripura,cool,sandy loam,31.1,93.0,347.9,healthy
+guava,unokotitripura,warm,loam,30.0,75.9,268.3,stress
+mango,unokotitripura,cool,laterite,29.9,87.4,123.6,moderate
+maize,northtripuratripura,warm,alluvial,28.3,80.8,311.1,healthy
+paddy,northtripuratripura,hot,alluvial,28.3,66.1,310.6,stress
+guava,southtripuratripura,warm,sandy loam,30.6,71.6,165.9,moderate
+guava,gomatitripura,cool,loam,27.9,90.5,136.1,healthy
+pineapple,dhalaitripura,cool,clay loam,30.6,72.6,414.4,stress
+moong,southtripuratripura,cloudy,red,25.9,91.5,286.1,moderate
+guava,sepahijalatripura,hot,laterite,25.0,86.0,84.9,healthy
+lemon,khowaitripura,humid,sandy loam,25.2,89.4,309.7,stress
+pineapple,khowaitripura,rainy,sandy loam,30.1,81.0,192.2,moderate
+watermelon,gomatitripura,hot,alluvial,29.8,74.6,375.1,healthy
+pineapple,unokotitripura,rainy,clay,24.8,88.0,118.1,stress
+mustard,gomatitripura,humid,loam,28.2,70.9,411.0,moderate
+pineapple,unokotitripura,humid,sandy loam,26.9,89.9,191.2,healthy
+pineapple,unokotitripura,cool,alluvial,29.7,84.3,204.3,stress
+moong,northtripuratripura,warm,sandy loam,26.2,72.3,396.1,moderate
+moong,southtripuratripura,rainy,red,27.2,74.2,233.0,healthy
+paddy,gomatitripura,warm,laterite,32.8,84.2,76.1,stress
+moong,gomatitripura,rainy,laterite,25.7,85.5,218.5,moderate
+watermelon,westtripuratripura,hot,clay loam,32.2,68.5,182.3,healthy
+guava,southtripuratripura,hot,clay,22.4,71.9,120.9,stress
+mustard,khowaitripura,cloudy,alluvial,21.6,85.1,365.1,moderate
+watermelon,khowaitripura,humid,laterite,34.7,75.8,96.5,healthy
+mango,unokotitripura,warm,clay,30.4,88.7,378.3,stress
+mustard,khowaitripura,humid,clay,24.4,82.8,170.2,moderate
+moong,southtripuratripura,warm,clay loam,20.0,82.7,252.3,healthy
+mustard,gomatitripura,cool,laterite,27.7,78.2,357.7,stress
+watermelon,sepahijalatripura,cool,alluvial,26.1,88.6,405.2,moderate
+pineapple,westtripuratripura,warm,sandy loam,27.1,70.0,118.2,healthy
+mango,khowaitripura,warm,sandy loam,34.3,67.3,95.7,stress
+moong,southtripuratripura,rainy,alluvial,20.0,81.2,259.8,moderate
+moong,dhalaitripura,cloudy,sandy loam,22.7,94.3,307.0,healthy
+moong,dhalaitripura,cloudy,loam,31.1,68.2,148.3,stress
+pineapple,gomatitripura,warm,clay loam,31.7,66.4,387.0,moderate
+watermelon,dhalaitripura,warm,red,28.8,74.3,418.4,healthy
+guava,gomatitripura,hot,clay,27.5,79.1,181.0,stress
+mango,westtripuratripura,rainy,alluvial,30.5,66.4,187.9,moderate
+moong,unokotitripura,hot,clay loam,22.7,92.6,384.7,healthy
+mustard,gomatitripura,cloudy,loam,23.5,77.7,76.9,stress
+paddy,unokotitripura,warm,alluvial,30.3,67.5,270.5,moderate
+mango,khowaitripura,rainy,clay,31.6,80.6,105.9,healthy
+pineapple,westtripuratripura,cool,clay,33.9,86.0,410.4,stress
+mustard,khowaitripura,warm,sandy loam,22.3,77.4,166.0,moderate
+guava,southtripuratripura,rainy,loam,30.3,87.8,414.5,healthy
+mango,khowaitripura,warm,clay,29.4,88.4,250.7,stress
+maize,unokotitripura,hot,red,34.8,94.9,377.8,moderate
+guava,northtripuratripura,humid,loam,24.6,85.6,406.3,healthy
+lemon,dhalaitripura,hot,laterite,33.3,83.8,248.6,stress
+moong,gomatitripura,rainy,clay loam,28.6,70.1,166.8,moderate
+watermelon,unokotitripura,cloudy,alluvial,32.7,76.3,151.2,healthy
+guava,sepahijalatripura,cloudy,laterite,32.1,65.4,336.5,stress
+pineapple,northtripuratripura,hot,laterite,22.9,84.0,363.7,moderate
+mustard,sepahijalatripura,humid,alluvial,23.0,94.2,304.9,healthy
+mango,gomatitripura,rainy,alluvial,29.0,77.3,208.3,stress
+mustard,sepahijalatripura,rainy,red,30.3,79.7,219.9,moderate
+watermelon,sepahijalatripura,cool,clay loam,31.2,65.4,92.0,healthy
+paddy,dhalaitripura,hot,loam,33.1,92.3,379.3,stress
+paddy,gomatitripura,humid,loam,28.1,91.0,177.8,moderate
+lemon,dhalaitripura,cool,red,28.4,69.4,209.8,healthy
+moong,southtripuratripura,humid,laterite,25.8,89.5,202.1,stress
+guava,sepahijalatripura,warm,loam,29.2,86.3,95.0,moderate
+pineapple,gomatitripura,cool,alluvial,32.5,94.0,130.1,healthy
+moong,sepahijalatripura,cloudy,loam,27.5,80.4,179.9,stress
+watermelon,unokotitripura,cool,clay,33.2,71.7,418.3,moderate
+mustard,gomatitripura,cloudy,alluvial,28.2,88.3,241.8,healthy
+maize,westtripuratripura,cloudy,alluvial,27.4,90.4,70.1,stress
+paddy,northtripuratripura,warm,sandy loam,29.7,76.4,297.5,moderate
+mustard,unokotitripura,cool,red,29.8,83.9,84.7,healthy
+maize,khowaitripura,hot,clay,32.1,68.9,349.8,stress
+guava,gomatitripura,cloudy,sandy loam,28.0,78.1,302.9,moderate
+paddy,westtripuratripura,humid,red,30.3,78.7,369.4,healthy
+paddy,dhalaitripura,cloudy,sandy loam,33.8,92.5,374.5,stress
+lemon,dhalaitripura,hot,red,32.2,91.5,158.3,moderate
+watermelon,westtripuratripura,cool,laterite,31.7,87.1,416.8,healthy
+paddy,northtripuratripura,rainy,clay,28.9,81.6,185.5,stress
+mango,sepahijalatripura,hot,laterite,32.9,85.3,384.9,moderate
+maize,northtripuratripura,hot,alluvial,29.5,71.8,274.4,healthy
+lemon,unokotitripura,cloudy,alluvial,31.4,84.7,365.7,stress
+mango,gomatitripura,warm,clay loam,25.6,78.8,342.6,moderate
+maize,northtripuratripura,warm,clay,26.0,77.2,197.5,healthy
+watermelon,sepahijalatripura,cloudy,alluvial,28.5,90.3,154.0,stress
+maize,northtripuratripura,rainy,alluvial,28.5,76.5,173.0,moderate
+guava,khowaitripura,hot,clay loam,33.4,80.0,297.7,healthy
+watermelon,dhalaitripura,hot,loam,33.0,65.9,133.5,stress
+pineapple,northtripuratripura,warm,red,32.7,76.8,70.3,moderate
+lemon,southtripuratripura,rainy,clay loam,24.4,77.9,138.6,healthy
+maize,gomatitripura,warm,laterite,34.1,78.8,217.9,stress
+maize,dhalaitripura,hot,clay loam,30.7,78.7,164.4,moderate
+watermelon,unokotitripura,warm,laterite,32.5,90.1,132.9,healthy
+lemon,sepahijalatripura,cloudy,sandy loam,33.9,86.7,329.4,stress
+moong,sepahijalatripura,cloudy,laterite,30.9,75.1,305.9,moderate
+guava,khowaitripura,hot,alluvial,25.1,94.4,377.5,healthy
+guava,westtripuratripura,rainy,alluvial,27.4,93.7,143.2,stress
+lemon,northtripuratripura,cool,clay loam,33.8,80.4,361.3,moderate
+pineapple,dhalaitripura,hot,laterite,29.5,86.7,122.6,healthy
+guava,dhalaitripura,rainy,laterite,33.9,65.8,333.9,stress
+maize,unokotitripura,warm,alluvial,26.5,78.5,397.9,moderate
+watermelon,northtripuratripura,warm,red,26.8,78.7,244.5,healthy
+pineapple,unokotitripura,hot,laterite,31.8,81.0,249.0,stress
+paddy,northtripuratripura,rainy,clay,25.6,68.0,267.1,moderate
+mustard,westtripuratripura,cool,clay,27.6,72.4,383.8,healthy
+paddy,khowaitripura,cloudy,clay loam,29.5,87.6,207.1,stress
+pineapple,dhalaitripura,rainy,laterite,23.9,69.9,92.8,moderate
+mango,westtripuratripura,hot,clay,27.6,75.1,316.0,healthy
+guava,sepahijalatripura,cool,red,23.5,84.9,399.8,stress
+guava,sepahijalatripura,cloudy,clay,32.0,66.9,275.1,moderate
+paddy,westtripuratripura,hot,sandy loam,32.2,80.3,318.2,healthy
+mango,southtripuratripura,humid,loam,34.6,86.1,270.5,stress
+paddy,khowaitripura,warm,sandy loam,30.0,83.9,268.6,moderate
+pineapple,unokotitripura,cloudy,clay,32.3,87.9,373.9,healthy
+mustard,unokotitripura,warm,laterite,25.2,80.2,213.9,stress
+guava,dhalaitripura,rainy,red,24.8,88.4,338.0,moderate
+pineapple,gomatitripura,cloudy,clay,31.1,94.6,223.6,healthy
+mango,southtripuratripura,cloudy,laterite,34.6,68.8,258.3,stress
+pineapple,unokotitripura,cool,loam,30.4,85.2,355.5,moderate
+moong,southtripuratripura,cloudy,alluvial,24.8,81.6,279.5,healthy
+mustard,southtripuratripura,cloudy,red,29.4,68.8,234.3,stress

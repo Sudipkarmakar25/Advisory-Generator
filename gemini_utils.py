@@ -87,7 +87,7 @@ Respond in JSON exactly like this:
         label = data.get("label", "moderate")
         suggestion = data.get(
             "suggestion",
-            "Maintain regular monitoring and adjust irrigation as needed."
+            "Water your crops regularly based on soil moisture, not just a fixed schedule. Use good-quality seeds and add organic matter to keep the soil healthy. Check for pests often and take action early to avoid damage. Give fertilizers in the right amount and at the right time. Keep your fields clean to reduce diseases. Rotate crops to maintain fertility and avoid soil exhaustion. Harvest at the proper maturity stage for better yield and profit."
         )
 
     except Exception as e:
