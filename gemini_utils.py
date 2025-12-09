@@ -93,7 +93,7 @@ Respond in JSON exactly like this:
     except Exception as e:
         log_event(f"⚠️ Gemini parse or response error: {e}")
         label = "moderate"
-        suggestion = "Unable to interpret Gemini response. Monitor the crop manually."
+        suggestion = "Water your crops regularly based on soil moisture, not just a fixed schedule. Use good-quality seeds and add organic matter to keep the soil healthy. Check for pests often and take action early to avoid damage. Give fertilizers in the right amount and at the right time. Keep your fields clean to reduce diseases. Rotate crops to maintain fertility and avoid soil exhaustion. Harvest at the proper maturity stage for better yield and profit."
 
     new_entry = {
         "crop_name": record["crop_name"],
